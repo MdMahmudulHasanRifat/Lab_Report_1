@@ -7,7 +7,7 @@ This project predicts whether a patient has diabetes using a Linear Regression m
 - **File Name**: `diabetes.csv`
 - **Source**: [PIMA Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 - **Used from GitHub**:  
-  [Raw CSV Link]((https://raw.githubusercontent.com/MdMahmudulHasanRifat/Lab_Report_1/refs/heads/main/diabetes.csv))
+  [Raw CSV Link](https://raw.githubusercontent.com/MdMahmudulHasanRifat/Lab_Report_1/refs/heads/main/diabetes.csv)
 
 ## 🧹 Preprocessing Steps
 1. Replaced zero values in the following columns with the **column mean**:
